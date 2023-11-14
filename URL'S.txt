@@ -1,0 +1,6 @@
+GITHUB : https://github.com/Ramaswamy12/capstone-project1.git
+
+DOCKER-HUB: 1)https://hub.docker.com/repository/docker/ramaswamy12/dev/general
+            2)https://hub.docker.com/repository/docker/ramaswamy12/prod/tags?page=1&ordering=last_updated
+
+DOCKER IMAGES: myreactimg
